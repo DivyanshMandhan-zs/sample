@@ -59,7 +59,7 @@ public void saveManagerAndUpdateEmployee(
 
 Method **saveManager()**
 
-NoneBashCSSCC#HTMLJavaJavaScriptJSONPHPPowershellPythonRubyTypeScriptCopy
+
 
 ```
 @Transactional
@@ -74,7 +74,7 @@ public Integer saveManager(Manager manager) throws InternalServerException {
 
 Method **updateEmployeeNameById()**
 
-NoneBashCSSCC#HTMLJavaJavaScriptJSONPHPPowershellPythonRubyTypeScriptCopy
+
 
 ```
 @Transactional
@@ -92,7 +92,6 @@ public int updateEmployeeNameById(String name, int id) {
 
 ### A Repository method looks like as follows.
 
-NoneBashCSSCC#HTMLJavaJavaScriptJSONPHPPowershellPythonRubyTypeScriptCopy
 
 ```
 @Repository
